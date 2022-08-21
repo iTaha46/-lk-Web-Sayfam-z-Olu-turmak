@@ -1,2 +1,2 @@
-# -lk-Web-Sayfam-z-Olu-turmak
+# İlk-Web-Sayfamı-Oluturmak
 HTML Ödev 1 Dersi
